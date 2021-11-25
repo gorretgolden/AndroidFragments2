@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Nabatanzi Gorret</string>
+
+    <string name="txt2">Welcome Message</string>
+
+    <string name="txt1">About me</string>
+    <string name="txt6">Android Development</string>
+    <string name="txt7">Java Development</string>
+    <string name="txt10">MY COURSES</string>
+    <string name="txt9">My Projects</string>
+    <string name="txt3">Contacts</string>
+    <string name="txt11">Python</string>
+    <string name="txt12">Graphics</string>
+    <string name="txt13">Web</string>
+    <string name="txt14">Data Science</string>
+    <string name="txt5">Contact me now</string>
+    <string name="txt8">Location</string>
+    <string name="txt4">Am Nabatanzi Gorret an experienced front-end developer, Data Analysit and Graphics Designer with an experience of 2years</string>
+    <string name="location">Apparently staying in Mengo around the late Nsibambis Home.
+    I also own a hall in Makerere Africa University Hall.
+    </string>
+    <string name="contact">Contact me on 0751547654 or 0776740156, Gmail nabatanzigorret143@gmail.com Github:gorretgolden@github.com</string>
+
+    <string name="hellofragment">Hello welcome to my page</string>
+</resources>
